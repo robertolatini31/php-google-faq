@@ -84,11 +84,7 @@ $questions = [
     <!-- /.container -->
 </main>
 
-<footer class="pt-4 pb-2 text-center">
-    <p>
-        Made by Roberto &copy;
-    </p>
-</footer>
+
     
 </body>
 </html>
